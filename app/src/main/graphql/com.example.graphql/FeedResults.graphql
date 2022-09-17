@@ -1,0 +1,9 @@
+query feedResult{
+    characters{
+        results{
+            name
+            gender
+            status
+        }
+    }
+}
